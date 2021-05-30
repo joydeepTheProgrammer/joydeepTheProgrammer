@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joydeep Majumdar
 - 👀 I’m interested in Manual and Automation Testing
 - 🌱 I’m currently learning Selenium
-- 💞️ I’m looking to collaborate on freelance projects
+- 💞️ I’m looking to collaborate on freelance projects 
 - 📫 How to reach me ...mail: joydeep2016@gmail.com
 
 <!---
