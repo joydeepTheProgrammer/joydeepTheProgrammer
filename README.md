@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joydeep Majumdar
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning tpics relaated to embedded systems 
+- 🌱 I’m currently learning topics relaated to embedded systems 
 - 💞️ I’m looking for a onrole or offrole jobs 
 - 📫 How to reach me ...mail: joydeep2016@gmail.com
 
